@@ -1,0 +1,4 @@
+#忽略index.html
+index.html
+#忽略text1目录下所有文件
+text1/*.txt
